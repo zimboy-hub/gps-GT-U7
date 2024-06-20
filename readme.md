@@ -65,7 +65,7 @@ The excellent micropyGPS library (finding this made this project viable) provide
 - simple properties,
 - properties that return python dictionaries.
 
-As a result of these different formats, quite a bit of data manipulation is required to get the data into a format suitable for display in the tkinter GUI. 
+As a result of these different formats, some data manipulation is required to get the data into a format suitable for display in the tkinter GUI. 
 
 ## To Do
 - Add an additional frame to the gps_gui.py GUI to stop the screen from scrolling up as the satellite_data key:value pairs are rendered.
