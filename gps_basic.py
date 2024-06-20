@@ -1,4 +1,4 @@
-# Basic python script to read NEMEA 0183 sentences from GT-U7 GPS breakout board, 
+# Read NEMEA 0183 sentences from GT-U7 GPS breakout board 
 # and display some of the key variables in the console.
 import time
 import serial
